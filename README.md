@@ -1,4 +1,13 @@
-### Hi there 👋
+### Ryotaro Onuki (a.k.a KERI or kerikun11)
+
+I'm an embedded systems engineer in Japan.  
+I like to make small and smart devices.  
+As an example, I made [IR-Station](https://github.com/kerikun11/IR-Station) which is an IoT infrared remote controller.  
+As a hobby, I participate in a robot competition called [micromouse](https://en.wikipedia.org/wiki/Micromouse).
+
+Links:
+[My Web Site](https://www.kerislab.jp/),
+[My Portfolio](https://github.com/kerikun11/kerikun11/blob/main/kerikun11-ja.md)
 
 <!--
 **kerikun11/kerikun11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
