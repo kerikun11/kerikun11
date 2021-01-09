@@ -5,10 +5,11 @@
 大学時代に独学で[IR-Station](https://github.com/kerikun11/IR-Station)というIoTデバイスを制作しました．  
 趣味で[マイクロマウス](https://www.ntf.or.jp/mouse/)というロボット競技に参加しています．  
 
-- [Home Page - KERI's Lab](https://www.kerislab.jp/)
-
-<img src="https://avatars1.githubusercontent.com/u/9977612" alt="kerikun11" width="90px"/><br/>
-↑ マイクロマウス「KERISE v4」
+- [ホームページ - KERI's Lab](https://www.kerislab.jp/)
+- [IoT 赤外線学習リモコン - IR-Station](https://www.kerislab.jp/posts/2016-07-25-how-to-use-ir-station/)  
+  <img src="https://www.kerislab.jp/posts/2016-07-25-how-to-use-ir-station/body.jpg" alt="kerikun11" width="90px"/><br/>
+- [マイクロマウス - KERISE v4](https://www.kerislab.jp/posts/2018-05-03-kerise-v4-coming/)  
+  <img src="https://avatars1.githubusercontent.com/u/9977612" alt="kerikun11" width="90px"/><br/>
 
 <details><summary>もっと読む</summary><div>
 
