@@ -1,24 +1,73 @@
-### Ryotaro Onuki (a.k.a KERI or kerikun11)
+### Ryotaro Onuki (KERI, kerikun11)
 
-I'm an embedded systems engineer in Japan.  
-I like to make small and smart devices.  
-As an example, I made [IR-Station](https://github.com/kerikun11/IR-Station), which is an IoT infrared remote controller.  
+とある日本企業で組み込みソフトウェアエンジニアやってます．  
+マイコン開発が趣味です。  
+小さくて賢いデバイスが好きです．  
 
-Links:
-[My Web Site](https://www.kerislab.jp/),
-[My Portfolio](https://github.com/kerikun11/kerikun11/blob/main/kerikun11-ja.md)
+- [けりの作品集 - KERI's Lab](https://www.kerislab.jp/works/)
 
-<!--
-**kerikun11/kerikun11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details><summary>けりのポートフォリオ</summary><div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 技能
+
+| スキル                                      | 概要 / 使用目的                        |
+| ------------------------------------------- | -------------------------------------- |
+| Linux (Manjaro, Ubuntu)                     | 開発環境構築                          |
+| C/C++                                       | IoTデバイス開発，ロボット開発          |
+| RTOS (FreeRTOS, mbed RTOS)                  | IoTデバイス開発，ロボット開発          |
+| マイコン (ESP32, STM32, nRF5, PIC, Arduino) | IoTデバイス開発，ロボット開発          |
+| EDA (KiCad)                                 | プリント基板設計                       |
+| 3D CAD (Fusion 360)                         | マイクロマウス機体設計                 |
+| 小型部品のはんだ付け                         | QFNパッケージ, 0201-inch 抵抗など      |
+| Raspberry Pi                                | 自宅サーバー構築                       |
+| MATLAB                                      | 制御シミュレーション，シンボリック計算 |
+| Python3                                     | データの可視化                         |
+
+---
+
+### 制作物
+
+| 年   | タイトル                                                                       | 概要                      |
+| ---- | ------------------------------------------------------------------------------ | ------------------------- |
+| 2015 | [Charge Station](https://www.kerislab.jp/posts/2015-02-16-charge-station-1-5/) | 電流計測機能付きUSB充電器 |
+| 2016 | [IR-Station](https://github.com/kerikun11/IR-Station)                          | IoT 赤外線学習リモコン    |
+| 2016 | [KERISE v1](https://www.kerislab.jp/posts/2016-11-21-micromouse2016/)          | マイクロマウス            |
+| 2017 | [KERISE v3](https://www.kerislab.jp/posts/2017-11-22-micromouse2017/)          | マイクロマウス            |
+| 2019 | [KERISE v4](https://www.kerislab.jp/posts/2019-12-04-micromouse2019/)          | マイクロマウス            |
+| 2025 | [KERIgoKBD v1](https://www.kerislab.jp/posts/2025-03-20-kerigokbd-v1/)         | 人間工学自作キーボード     |
+
+---
+
+### 職歴
+
+| 期間              | 会社名                     | 業務内容                 |
+| ----------------- | -------------------------- | ------------------------ |
+| 2014.03 - 2020.03 | 株式会社秋月電子通商       | 店舗スタッフ             |
+| 2014.10 - 2020.03 | 株式会社Sassor             | 組み込みデバイス開発     |
+| 2020.04 -         | ｿﾆｰｾﾐｺﾝﾀﾞｸﾀｿﾘｭｰｼｮﾝｽﾞ株式会社 | 組み込みソフトウェア開発 |
+
+---
+
+### 学歴
+
+| 卒業年月 | 教育機関                                                        |
+| -------- | --------------------------------------------------------------- |
+| 2014.03  | 横浜市立横浜サイエンスフロンティア高等学校 理数科               |
+| 2018.03  | 東京工業大学工学部制御システム工学科 学士（工学）               |
+| 2020.03  | 東京工業大学工学院システム制御系システム制御コース 修士（工学） |
+
+---
+
+### 受賞歴
+
+| 年月    | 内容                                                                         |
+| ------- | ---------------------------------------------------------------------------- |
+| 2016.11 | 第37回全日本マイクロマウス大会2016 クラシック競技フレッシュマンクラス 特別賞 |
+| 2017.11 | 第38回全日本マイクロマウス大会2017 ハーフサイズ競技エキスパートクラス 特別賞 |
+| 2019.12 | 第40回全日本マイクロマウス大会2019 マイクロマウス競技 特別賞                 |
+| 2020.03 | 東京工業大学白星会システム制御コース最優秀論文発表賞                         |
+| 2022.03 | 第42回全日本マイクロマウス大会2021 マイクロマウス競技 特別賞                 |
+
+</div></details>
