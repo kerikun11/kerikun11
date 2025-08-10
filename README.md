@@ -3,7 +3,6 @@
 I'm an embedded systems engineer in Japan.  
 I like to make small and smart devices.  
 As an example, I made [IR-Station](https://github.com/kerikun11/IR-Station), which is an IoT infrared remote controller.  
-As a hobby, I participate in a robot competition called [micromouse](https://en.wikipedia.org/wiki/Micromouse).
 
 Links:
 [My Web Site](https://www.kerislab.jp/),
